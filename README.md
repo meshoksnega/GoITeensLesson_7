@@ -1,2 +1,2 @@
 # GoITeensLesson_7
-GoITeens site7
+Обов'язково у папці тримати!
